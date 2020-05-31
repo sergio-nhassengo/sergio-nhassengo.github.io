@@ -1,0 +1,26 @@
+.tm-logo-center-splash > img {
+    width: 45vh;
+}
+.tm-logo-center-splash {
+    position: absolute;
+    left: 0;
+    top: 25vh;
+    width: 100%;
+    text-align: center;
+}
+
+.tm-text-center {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 65%;
+    font-size: 200%;
+    font-family: inherit;
+}
+
+.tm-footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
